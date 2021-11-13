@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankit122333
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming,playing chess,listening to music.
 - 🌱 I’m currently learning data structures and algorithms, machine learning algos
 
 <!---
