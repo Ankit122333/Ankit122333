@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Ankit122333
-- 👀 I’m interested in programming,playing chess,listening to music.
-- 🌱 I’m currently learning data structures and algorithms, machine learning algos
+- 👋 Hi, I’m Ankit Kumar, a machine learning enthusiast.
+- 👀 Interests:
+-               Programming
+-               Playing Chess
+-               Listening to music
+- 🌱 Currently investing time in:
+-               Learning concepts of Data Structures 
+-               Machine Learning and Algorithms
 
 <!---
 Ankit122333/Ankit122333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
